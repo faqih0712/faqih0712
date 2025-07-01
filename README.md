@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faqih0712
 - 👀 I’m interested in Gaming and Japanese Idols
-- 🌱 I’m currently learning Japanese and Typescript
-- 💞️ I’m looking to collaborate on Tokutei Ginou
+- 🌱 I’m currently learning Japanese and English
+- 💞️ I’m looking way to Tokutei Ginou
 - 📫 How to reach me YTTA
 - 😄 Pronouns: Jawa
 - ⚡ Fun fact: IDK
